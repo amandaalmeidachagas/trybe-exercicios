@@ -1,0 +1,10 @@
+O que vou aprender na Trybe:
+
+Internet
+Unix
+Bash
+Html
+CSS
+JavaScript
+Comunicação
+Liderança
